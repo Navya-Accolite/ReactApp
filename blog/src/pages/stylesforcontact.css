@@ -1,0 +1,21 @@
+.table{
+    border-collapse: separate !important;
+    width: 60%;
+    margin: auto;
+    border-radius: 50px;
+    border-collapse: collapse;
+    
+}
+.thead{
+    background-color: rgb(49, 160, 123);
+    width: auto;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.tbody{
+    background-color: rgb(237, 168, 221);
+    width: auto;
+    border-radius: 20px;
+    margin: auto;
+}
